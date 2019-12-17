@@ -1,5 +1,5 @@
 # Programming-Fundamentals-Homework
-My Programing Foundamentals Homework
+My Programing Fundamentals Homework
 
 ---
 
