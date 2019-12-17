@@ -1,0 +1,1 @@
+printf("debug:%d\n",((Student*)a)->scores_sum);
